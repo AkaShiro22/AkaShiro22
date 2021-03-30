@@ -42,9 +42,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!-- links to your social media accounts -->
-[1]: https://twitter.com/akashiro22_
-[2]: https://github.com/AkaShiro22
-[3]: https://www.linkedin.com/in/akashiro22/
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->

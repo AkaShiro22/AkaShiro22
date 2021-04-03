@@ -2,8 +2,7 @@
 
 [![Header](https://avatars.githubusercontent.com/AkaShiro22 "Header")](https://akashiro22.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* <a href="https://saweria.co/akashiro"><img src="https://github.com/AkaShiro22/AkaShiro22/blob/main/Logo-Donasi-saweria.png" width="30" height="30"><img src="https://img.shields.io/badge/saweria-FEAA2D?style=for-the-badge&logo=saweria&logoColor=white">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is AkaShiro and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Jakarta and currently working at MNC. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [akashiro22](https://test.com/) as well as on [Medium](https://test.com) and [DEV.to](https://test.com).

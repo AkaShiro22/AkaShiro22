@@ -44,12 +44,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-# License
-**BocchiBot** © [AkaShiro22](https://github.com/AkaShiro22), released under the MIT License.
-Authored and maintained by AkaShiro22.
-
-<p align="center">
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%AkaShiro22%2FInstinctBot?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAkaShiro22%2FInstinctBot.svg?type=large" />
-</p>
-

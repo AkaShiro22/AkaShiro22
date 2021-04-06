@@ -29,10 +29,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/AkaShiro22/AkaShiro22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaShiro22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22%20alt=%22AkaShiro22%20GitHub%20Stats" />
 </a>
-<a href="https://github.com/AkaShiro22/botwhatsapp2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaShiro22&repo=botwhatsapp2021&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/AkaShiro22/Hacking-Tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaShiro22&repo=Hacking-Tools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/AkaShiro22/botwhatsapp2021">
+<a href="https://github.com/AkaShiro22/keyterm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaShiro22&repo=keyterm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 

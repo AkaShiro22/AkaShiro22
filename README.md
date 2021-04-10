@@ -22,6 +22,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * <a href="https://saweria.co/akashiro"><img src="https://github.com/AkaShiro22/AkaShiro22/blob/main/Logo-Donasi-saweria.png" width="30" height="30"><img src="https://img.shields.io/badge/saweria-FEAA2D?style=for-the-badge&logo=saweria&logoColor=white">
+* [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/akashiroreal/)
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/AkaShiro22/AkaShiro22">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaShiro22&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />

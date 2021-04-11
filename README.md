@@ -22,6 +22,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * <a href="https://saweria.co/akashiro"><img src="https://github.com/AkaShiro22/AkaShiro22/blob/main/Logo-Donasi-saweria.png" width="30" height="30"><img src="https://img.shields.io/badge/saweria-FEAA2D?style=for-the-badge&logo=saweria&logoColor=white">
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AkaShiro22&label=VIEWS%20AkaShiro22%20&style=flat-square&color=brightgreen" />
+</p>
  
 * [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/akashiroreal/)
 ## &#x1f4c8; GitHub Stats
@@ -29,8 +33,39 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaShiro22&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/AkaShiro22/AkaShiro22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaShiro22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22%20alt=%22AkaShiro22%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaShiro22&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" />
 </a>
+<p align="center">
+  <a href="https://github.com/AkaShiro22"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkaShiro22&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" /></a>
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkaShiro22" />
+</p>
+<p align="center">
+<a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<!--- Terserah Mau Ganti Atau Gak--->
+<p align="center">
+<img src="https://i.ibb.co/54M58jt/3.jpg" />
+</p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkaShiro22" />
+</p>
+
+<p align="center">
+<a href="#"><img title="MyProfile" src="https://img.shields.io/badge/MyProfile-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<!--- Terserah Mau Ganti Atau Gak--->
+<p align="center">
+<img src="https://i.ibb.co/54M58jt/3.jpg" />
+</p>
+<!--- End Terserah Mau Ganti Atau Gak--->
+<p align="center">
+<a href="https://github.com/AkaShiro22"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AkaShiro22-blue.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
 <a href="https://github.com/AkaShiro22/Hacking-Tools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkaShiro22&repo=Hacking-Tools&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>

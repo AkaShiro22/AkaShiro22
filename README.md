@@ -8,7 +8,7 @@ InstinctBot whatsapp©
   [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/AkaShiro22/InstinctBot/blob/launch/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Indonesian-blue.svg)](https://github.com/AkaShiro22/InstinctBot/blob/launch/README-SI.md)
   
-<div align="left">
+<div align="centre">
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=welcome+To+Instinct+Bot+;Created+By+Instinct+Bot)](https://git.io/typing-svg)
 

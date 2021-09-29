@@ -10,7 +10,7 @@ InstinctBot whatsapp©
   
 <div align="center">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=welcome+To+Instinct+Bot+;Created+By+Instinct+Bot)](https://git.io/typing-svg)
-</p>
+
  </a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">

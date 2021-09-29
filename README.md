@@ -1,6 +1,18 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](https://avatars.githubusercontent.com/AkaShiro22 "Header")](https://akashiro22.dev/)
+# 😈InstinctBot😈
+InstinctBot whatsapp©
+
+#### Select your language
+  [![English](https://img.shields.io/badge/Select-English-yellow.svg)](https://github.com/AkaShiro22/InstinctBot/blob/launch/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-blue.svg)](https://github.com/AkaShiro22/InstinctBot/blob/launch/README-SI.md)
+  
+<div align="center">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=welcome+To+King+bot+;Created+By+Janith+sadanuwan)](https://git.io/typing-svg)
+
+ </a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is AkaShiro and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Jakarta and currently working at MNC. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
